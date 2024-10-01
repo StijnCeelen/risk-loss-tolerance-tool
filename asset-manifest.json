@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/risk-loss-tolerance-tool/static/css/main.e6c13ad2.css",
+    "main.js": "/risk-loss-tolerance-tool/static/js/main.fc842037.js",
+    "static/js/453.36e299d3.chunk.js": "/risk-loss-tolerance-tool/static/js/453.36e299d3.chunk.js",
+    "static/media/HeroAnimationResultSummary.webm": "/risk-loss-tolerance-tool/static/media/HeroAnimationResultSummary.3488e630144f98fde232.webm",
+    "static/media/HeroAnimationInvestmentForm.webm": "/risk-loss-tolerance-tool/static/media/HeroAnimationInvestmentForm.69f04cb50cc40d3d79af.webm",
+    "static/media/HeroAnimationIntroduction.webm": "/risk-loss-tolerance-tool/static/media/HeroAnimationIntroduction.d64994e1aba54af746c6.webm",
+    "static/media/HeroAnimationScenarioSlider.webm": "/risk-loss-tolerance-tool/static/media/HeroAnimationScenarioSlider.33b16641f6c06706b2a4.webm",
+    "index.html": "/risk-loss-tolerance-tool/index.html",
+    "main.e6c13ad2.css.map": "/risk-loss-tolerance-tool/static/css/main.e6c13ad2.css.map",
+    "main.fc842037.js.map": "/risk-loss-tolerance-tool/static/js/main.fc842037.js.map",
+    "453.36e299d3.chunk.js.map": "/risk-loss-tolerance-tool/static/js/453.36e299d3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.fc842037.js"
+  ]
+}
