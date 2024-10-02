@@ -53,7 +53,7 @@ const ScenarioSlider = ({ multiplier, investment, initialValue, onNext, onBack, 
         <p style={styles.roundInfo}>{`Round ${currentScenarioIndex + 1} of ${totalScenarios}`}</p>
 
         <p style={styles.subheading}>
-          Take a chance and see how much you can gain! Use the slider to decide how much to invest in this scenario.
+          Take a chance and see how much you can gain! Use the slider to decide how much to invest in this scenario for the next 5 years.
         </p>
         
         {/* Slider and Labels */}
